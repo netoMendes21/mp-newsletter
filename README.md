@@ -1,4 +1,4 @@
-# Nome do Mini Projeto
+# Newsletter
 
 Este mini-projeto consiste na criação de um elemento de Newsletter. O usuário pode inserir seu e-mail e se inscrever facilmente, com um aviso de que pode cancelar a inscrição a qualquer momento.
 
