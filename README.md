@@ -1,33 +1,24 @@
 # Nome do Mini Projeto
 
-(um parágrafo explicando)
-
-## 🤓 Antes de começar
-
-(Coloque aqui algum setup / boilerplate e explicações se houver. Se não houver, essa seção pode ser apagada)
+Este mini-projeto consiste na criação de um elemento de Newsletter. O usuário pode inserir seu e-mail e se inscrever facilmente, com um aviso de que pode cancelar a inscrição a qualquer momento.
 
 ## 🔨 Requisitos
 
-- Requisito 1
-- Requisito 2
-
-	> 👀 **Dicas:**
-	> - Dica A sobre Req 2.
-	> - Dica B sobre Req 2.
-
-- Requisito 3
-- ...
-
-## 🔨 Desafio extra para quem quer ir além
-
 - Criar um campo de input para e-mail.
 
-- Criar um botão para inscrição.
+- Criar um botão estilizado para inscrição.
 
 - Garantir que o design siga a proposta apresentada.
 
 - Adicionar uma mensagem indicando que a inscrição pode ser cancelada a qualquer momento.
 
+## 🔨 Desafio extra para quem quer ir além
+
+- Validar se o e-mail digitado é válido antes de permitir o envio.
+
+- Adicionar um efeito de animação quando o usuário se inscrever.
+
+- Criar uma mensagem de sucesso ou erro após a tentativa de inscrição.
 
 
 ## 🎨 Design Sugerido
@@ -36,21 +27,13 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 ### Figma
 
-🔗 [Link do design]()
+🔗 [Link do design](https://www.figma.com/community/file/1488998691130328965/mini-projeto-newsletter)
 
 ## 👉🏽 Sobre esse mini-projeto
 
 ### O que você irá praticar:
 
-#### React
+### TailwindCSS
+- Estilização moderna e responsiva
 
-- Habilidade 1 do React
-- Habilidade 2
-
-#### TailwindCSS
-
-- Habilidade 1 do TailwindCSS
-
-### Pré requisitos
-
-(coloque aqui se houver algum)
+- Gradientes e efeitos visuais
