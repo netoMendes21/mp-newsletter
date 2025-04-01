@@ -20,10 +20,15 @@
 
 ## 🔨 Desafio extra para quem quer ir além
 
-(Essa seção é opcional)
+- Criar um campo de input para e-mail.
 
-- Requisito extra 1. 
-- Requisito extra 2.
+- Criar um botão para inscrição.
+
+- Garantir que o design siga a proposta apresentada.
+
+- Adicionar uma mensagem indicando que a inscrição pode ser cancelada a qualquer momento.
+
+
 
 ## 🎨 Design Sugerido
 
